@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\avernyhora\source\repos\k_dimentional_tree\k_dimentional_tree\source.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\avernyhora\source\repos\k_dimentional_tree\k_dimentional_tree\_2d_tree.h(149): warning C4018: '<': signed/unsigned mismatch
+  c:\users\avernyhora\source\repos\k_dimentional_tree\k_dimentional_tree\_2d_tree.h(136): note: while compiling class template member function '_2d_tree<float>::_2d_tree(std::vector<_2d_point<float>,std::allocator<_Ty>>)'
+          with
+          [
+              _Ty=_2d_point<float>
+          ]
+  c:\users\avernyhora\source\repos\k_dimentional_tree\k_dimentional_tree\source.cpp(22): note: see reference to function template instantiation '_2d_tree<float>::_2d_tree(std::vector<_2d_point<float>,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              _Ty=_2d_point<float>
+          ]
+  c:\users\avernyhora\source\repos\k_dimentional_tree\k_dimentional_tree\source.cpp(22): note: see reference to class template instantiation '_2d_tree<float>' being compiled
+  K_dimentional_tree.vcxproj -> C:\Users\avernyhora\source\repos\K_dimentional_tree\Debug\K_dimentional_tree.exe
